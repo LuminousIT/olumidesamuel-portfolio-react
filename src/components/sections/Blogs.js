@@ -12,6 +12,8 @@ const allBlogs = [
     date: "14 March, 2021",
     author: "Samuel Olumide Oluwole",
     category: "Tutorials",
+    link:
+      "https://dev.to/olumidesamuel_/implementing-protected-route-and-authentication-in-react-js-3cl4",
   },
   {
     id: 2,
@@ -21,6 +23,8 @@ const allBlogs = [
     date: "09 March, 2021",
     author: "Samuel Olumide Oluwole",
     category: "Tutorial",
+    link:
+      "https://dev.to/olumidesamuel_/structuring-redux-in-a-react-web-app-1i21",
   },
   {
     id: 3,
@@ -30,6 +34,7 @@ const allBlogs = [
     date: "07 March, 2020",
     author: "Samuel Olumdie Oluwole",
     category: "Tutorial",
+    link: "https://dev.to/olumidesamuel_/sass-css-for-beginners-58ef",
   },
 ];
 
