@@ -6,6 +6,10 @@ import "slick-carousel/slick/slick-theme.css";
 import "animate.css/animate.min.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
+import ReactGA from "react-ga";
+
+ReactGA.initialize("G-4089G1YKYV");
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 ReactDOM.render(
   <React.StrictMode>
